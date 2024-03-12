@@ -9,4 +9,4 @@
 
 ## 상황 재현
 
-[DynamoDB](https://github.com/enbraining/beginning-roadmap/blob/main/story/dynamo-db.md)
+[DynamoDB](https://github.com/enbraining/beginning-roadmap/blob/main/story/devops/dynamo-db.md)
