@@ -25,8 +25,8 @@
 |주제|설명|
 |---|---|
 |Filter|요청이 서버로 들어오는 과정에 대해 이해합니다.|
-|SecurityContextHolder|인증 정보가 어떻게 저장되는지 이해합니다.|
 |Authentication|인증이 무엇인지 이해합니다.|
 |Authorization|인가가 무엇인지 이해합니다.|
 |JWT|인증 방식 중 Json Web Token이 무엇인지 이해합니다.|
-|Session, Cookie|인증 방식 중 세션과 쿠기가 무엇인지 이해합니다.|
+|SecurityContextHolder|인증 정보가 어떻게 저장되는지 이해합니다.|
+|Session, Cookie|인증 방식 중 세션과 쿠키가 무엇인지 이해합니다.|
